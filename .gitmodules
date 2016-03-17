@@ -1,0 +1,3 @@
+[submodule "content/NyaoVim"]
+	path = content/NyaoVim
+	url = https://github.com/joedrago/NyaoVim.git
